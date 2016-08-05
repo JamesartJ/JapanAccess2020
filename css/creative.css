@@ -439,3 +439,11 @@ body {
   background-image: url("../img/Andrew.png");
   background-position: 35% 25%;
 }
+
+.pdf-link {
+  color: #f6f6f6;
+}
+
+.pdf-link:hover {
+  color: white;
+}
